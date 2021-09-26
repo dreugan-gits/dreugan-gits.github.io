@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc />
+    <lastmod>2021-09-12</lastmod>
+  </url>
+  <url oeid="990254a5-1909-4b87-8ea4-3cda66f6b6fa" oelang="DEFAULT">
+    <loc>Contact.htm</loc>
+    <lastmod>2021-09-12</lastmod>
+  </url>
+  <url oeid="a55407f6-949a-4895-a563-33b57b0e64db" oelang="DEFAULT">
+    <loc>About.htm</loc>
+    <lastmod>2021-09-12</lastmod>
+  </url>
+  <url oeid="42411f4c-c9f5-47a3-9689-be663998695a" oelang="DEFAULT">
+    <loc>index.htm</loc>
+    <lastmod>2021-09-12</lastmod>
+  </url>
+  <url oeid="49341d2d-9d2e-4a24-8bec-b94368809ebd" oelang="DEFAULT">
+    <loc>Services.htm</loc>
+    <lastmod>2021-09-12</lastmod>
+  </url>
+  <url oeid="7bb4fa15-c235-4fd7-b392-20fb3f14bc27" oelang="DEFAULT">
+    <loc>Solutions.htm</loc>
+    <lastmod>2021-09-12</lastmod>
+  </url>
+  <url oeid="204ac939-8e12-4db4-9b8a-e528751c230d" oelang="DEFAULT">
+    <loc>Website-policies.htm</loc>
+    <lastmod>2021-09-12</lastmod>
+  </url>
+</urlset>
